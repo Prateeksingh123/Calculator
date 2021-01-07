@@ -1,0 +1,45 @@
+.body {
+    background-image: url(https://i.imgur.com/mSPU63U.jpg);
+}
+.section {
+    margin: 0;
+    background: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+} 
+#div1 {
+    background-color: white;
+    height: 50px;
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#screen {
+    background-color: white;
+    height: 45px;
+    width: 292px;
+    text-decoration: solid,black;
+    font-size:xx-large;
+    font-weight: bolder;
+    font-display:initial;
+}
+#div2 {
+    align-content: center;
+    height: 170px;
+    width: 300px;
+}
+#btn1, #btn2, #btn3, #btn4, #btn5, #btn6, #btn7, #btn8, #btn9, #btn10, #btn11, #btn12, #btn13,
+#btn14, #btn15, #btn16 {
+    width: 24%;
+    height: 10%;
+    border: none;
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+}
